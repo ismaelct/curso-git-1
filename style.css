@@ -1,5 +1,5 @@
 body {
-    background-color: #1d2127;
+    background-color: #009dc4;
     color: #fff;
     font-family: "Overpass Mono", monospace;
     padding: 0;
@@ -12,9 +12,16 @@ h1 {
 }
 
 .bar {
-    background-color: #464b55;
+    background-color: #004151;
     padding: 10px;
     display: flex;
+}
+
+.ads {
+    width: auto;
+    background-color: #F4C001;
+    text-align: center;
+    color: black;
 }
 
 .logo {
@@ -28,16 +35,17 @@ h1 {
 }
 
 .post {
-    background-color: #282c34;
+    background-color: #005166;
     margin-bottom: 15px;
     padding: 5px 20px 5px 20px;
     border-radius: 12px;
 }
 
 .post h4 {
-    color: #98c379;
+    color: #ccf4fe;
+    font-size: 26px;
 }
 
 .post span {
-    color: #61afef;
+    color: #F4C001;
 }
